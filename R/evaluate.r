@@ -5,7 +5,7 @@
 # 2. SEX -one character, 1=male; 2=female 
 # 3. DOB - date of birth
 # 4. MCAID -numeric, =1 if number of State Part B BUYIN (MEDICAID)Months of base year >0, =0 otherwise 
-# 5. NEMCAID -numeric, =1 if a new enrollee and number of State Part B BUYIN (MEDICAID) months of payment year >0; =0 otherwise 
+# 5. NMCAID -numeric, =1 if a new enrollee and number of State Part B BUYIN (MEDICAID) months of payment year >0; =0 otherwise 
 # 6. OREC - -one character, original reason for entitlement with the following values: 0 - OLD AGE (OASI), 1 - DISABILITY (DIB), 2 - ESRD, 3 - BOTH DIB AND ESRD
 #DIAG File Input
 # 1. HICNO (or other person identification variable that must be the same as in PERSON file) - person identifier of character or numeric type and unique to an individual 
